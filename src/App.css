@@ -1,0 +1,96 @@
+.App {
+  font-family: Tahoma
+}
+
+.ant-tabs-tab {
+  font-size: 20px;
+  color: white;
+}
+
+.ant-tabs-nav-container {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+}
+
+.ant-tabs-nav .ant-tabs-tab-active {
+  color: #D73A18;
+}
+
+.ant-tabs-nav .ant-tabs-tab:hover {
+  color: #D73A18;
+}
+
+.ant-tabs-ink-bar {
+  background-color: #D73A18;
+}
+
+.ant-list-item {
+  text-align: center;
+}
+
+.ant-tabs-nav {
+   height: 80px;
+   display: flex;
+   align-items: center;
+}
+
+.ant-list-item {
+  display: block;
+}
+
+.ant-pagination {
+  display: flex;
+  justify-content: center;
+}
+
+.ant-pagination .ant-pagination-item-active {
+  border-color: #D73A18;
+}
+
+.ant-pagination-item-active a {
+  color: #D73A18;
+}
+
+.ant-pagination-item:focus, .ant-pagination-item:hover {
+  color: #D73A18;
+}
+
+.ant-pagination-item:focus a, .ant-pagination-item:hover a {
+  color: #D73A18;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.answer {
+  font-style: italic;
+}
+
+.answer a {
+  text-decoration: none;
+  color: black;
+}
+
+.filter-input {
+  width: 15%;
+}
+
+.input-container {
+  display: flex;
+  justify-content: center;
+}
+
+.ant-input:placeholder-shown {
+  text-align: center;
+}
+
+.ant-pagination-prev:focus .ant-pagination-item-link, .ant-pagination-next:focus .ant-pagination-item-link, .ant-pagination-prev:hover .ant-pagination-item-link, .ant-pagination-next:hover .ant-pagination-item-link {
+  border-color: #D73A18;
+  color: #D73A18;
+}
+
+.ant-pagination-item:focus, .ant-pagination-item:hover {
+  border-color: #D73A18;
+}
